@@ -7,13 +7,21 @@ I picked up flockDB as its a comparatively smaller code base.
 
 Execution Plan:
 a)Understand a basic idea of how database works.
+
 b)Understand the HLD of FlockDb
+
 c)Write the HLD, without implementing, how it works.
+
 d)Understand LLD.
+
 e)Write LLD, without implementing the OS related task.
+
 f)Understand OS related design
+
 g)Write it.
+
 h)Work on making it distributed and fault tolerant.
+
 i)Replication
 
 
