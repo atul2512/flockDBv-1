@@ -1,7 +1,7 @@
 # flockDBv-1
 FlockDB version -1
 
-This is an attempt to learn and write a database.The plan is to understand the LLD and HLD of flockDB and then write it myself.I picked up flockDB as its a comparatively smaller code base.
+This is an attempt to learn and write a database.The plan is to understand the LLD and HLD of flockDB and then write it myself.I picked up flockDB as its a comparatively smaller code base.And the fact that it is comparatively new,makes it a better candidate.
 
 Execution Plan:
 - Understand a basic idea of how database works.
